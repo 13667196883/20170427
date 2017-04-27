@@ -1,0 +1,1 @@
+﻿git loggit reflogcat readme.txtgit reset  –hard HEAD~100git reset  –hard 6fcfc89
